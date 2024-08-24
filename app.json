@@ -1,10 +1,10 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "name": "Taiwo",
+  "description": "I am T.com Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke/sessions",
   "repository": "https://github.com/mouricedevs/gifted",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "gifted-api", "gifted-baileys", "Gifted-Md"],
+  "logo": "https://ibb.co/5M4WhcN",
+  "keywords": ["gifted-md", "gifted-md", "gifted-api", "gifted-baileys", "Gifted-Md"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "T.com"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "2347034313883"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -91,7 +91,7 @@
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
       "required": false,
-      "value": "."
+      "value": ","
     },
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
